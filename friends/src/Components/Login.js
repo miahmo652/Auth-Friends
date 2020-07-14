@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import { axiosWithAuth } from '../utils/axiosWithAuth';
+
 
 class Login extends React.Component {
     state = {
